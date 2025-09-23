@@ -1,4 +1,4 @@
-ORDERKEY,CUSTKEY,ORDERSTATUS,TOTALPRICE,ORDERDATE,ORDERPRIORITY,CLERK,SHIPPRIORITY,COMMENT
+order_id,customer_id,order_status,total_price,order_date,order_priority,clerk,ship_priority,comment
 33993222,1352837,O,181155.12,1996-11-12,4-NOT SPECIFIED,Clerk#000009236,0," enticing accounts wake. furi"		
 33993251,773962,O,60278.73,1997-12-24,5-LOW,Clerk#000001943,0,the slyly final dep		
 33993252,1472680,O,30491.74,1996-06-10,1-URGENT,Clerk#000005392,0,deposits sleep across the careful deposits. blithely ironic dolphins alon		
@@ -7115,3 +7115,4 @@ ORDERKEY,CUSTKEY,ORDERSTATUS,TOTALPRICE,ORDERDATE,ORDERPRIORITY,CLERK,SHIPPRIORI
 34064965,346696,O,55586.88,1996-11-06,5-LOW,Clerk#000001208,0,"liers alongside of the unusual, final req"		
 34064966,907229,O,282858.14,1996-03-02,4-NOT SPECIFIED,Clerk#000003137,0,to beans? sometimes silent foxes sleep blithely. always final theodo		
 34064995,1016518,O,45122.94,1996-06-28,2-HIGH,Clerk#000006511,0,counts. slyly ironic accounts are slyly unu		
+

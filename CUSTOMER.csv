@@ -1,4 +1,4 @@
-CUSTKEY,NAME,ADDRESS,COUNTRYKEY,PHONE,ACCTBAL,MKTSEGMENT,COMMENT
+customer_id,name,address,country_id,phone,account_balance,marketing_segment,comment
 135001,Customer#000135001,"xEA cCKSqsuuP kd,GghKbvfQha06R3y7kyD",22,32-957-348-8193,2493.83,AUTOMOBILE,"blithely final packages. regular, final ideas along the regular, regular foxes haggle blithely furiously regular "
 135002,Customer#000135002,Snh2BYOdwuag3bu,21,31-243-526-5957,1709.19,MACHINERY,y regular packages. fluffily final deposits haggle blithely pending accounts. ironic ideas haggle? slyly i
 135003,Customer#000135003,KtkLQl9ae xIk,11,21-973-425-7868,3379.97,FURNITURE, ideas affix carefully; furiously
